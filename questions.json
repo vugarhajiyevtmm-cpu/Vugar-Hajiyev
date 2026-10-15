@@ -1,0 +1,543 @@
+[
+  {
+    "id": 1,
+    "question": "Partlayış-yanğın təhlükəli obyektlərdə qəzalərın ləğvı planında nələr nəzərdə tutlmalıdır?",
+    "options": [
+      "Baş verə biləcək qəzaların lokallaşdırılması və ləğv edilməsi üzrə tədbirlər.",
+      "İşçi heyətin qəzaların qarşısının alınması və ləğvi üzrə operativ hərəkət qaydaları.",
+      "Qəza və onun nəticələrinin aradan qaldırılması üsul və metodları",
+      "Yanma və ya partlayışların baş verməməsi, qəzanın ağırlıq dərəcəsinin azaldılması üçün hərəkət qaydaları.",
+      "Qəzanın ləğvi ilə məşğul olmayan adamların təhlükəsiz təxliyəsi üzrə heyətin çevik hərəkəti"
+    ],
+    "answer": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaldırıcı aqreqatın, vışkaların, qüllələrin yükqaldırma qabiliyyəti və yolverilən külək təzyiqi nəyə uyğun olmalıdır?",
+    "options": [
+      "Təmir prosesində gözlənilən ən maksimal yüklənməyə uyğun olmalıdır.",
+      "Təmir prosesində gözlənilən yüklənməyə uyğun olmalıdır",
+      "Gözlənilən ən maksimal yüklənməyə uyğun olmalıdır",
+      "Qaldırıcı aqreqatın pasportunda göstərilən yüklənməyə uyğun olmalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 3,
+    "question": "İstehsalat obyektində, işin rəhbərinin və ya obyektin rəhbərliyinin icazəsi olmadan kənar şəxslərin olması :",
+    "options": [
+      "İcazə verilir",
+      "Qadağandır."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 4,
+    "question": "Hansı intervallarda təmir-izolyasiya işlərini apararkən jelonka ilə təmizləməyə yol verilmir?",
+    "options": [
+      "Qazın təzyiqi ilə layların yarılması ehtimalı olan intervalda",
+      "Neftin (axımı əmələ gətirdikdən sonra) təzyiqi ilə layların yarılması ehtimalı olan intervalda",
+      "Təzyiqi ilə layların yarılması ehtimalı olan intervalda",
+      "Qazın, neftin (axımı əmələ gətirdikdən sonra) təzyiqi ilə layların yarılması ehtimalı olan intervalda, həmçinin hidrogen-sulfid (kükürdlü) olan quyularda qum tıxaclarını jelonka ilə təmizləməyə yol verilmir."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "Hansı sənədə əsasən və kim tərəfindən quyuların əsaslı təmiri aparılmalıdır?",
+    "options": [
+      "Quyuların əsaslı təmiri əsaslı təmir briqadası tərəfindən, sifarışçi ilə razılaşdırılmış plan üzrə aparılmalıdır",
+      "Quyuların əsaslı təmiri əsaslı təmir briqadası tərəfindən, müəssisənin texniki rəhbərinin təsdiq etdiyi və sifarışçi ilə razılaşdırılmış plan üzrə aparılmalıdır",
+      "Quyuların əsaslı təmiri ixtisaslaşdırılmış briqada tərəfindən, müəssisənin baş mühəndisi (texniki rəhbərinin) təsdiq etdiyi plan üzrə aparılmalıdır."
+    ],
+    "answer": 2
+  },
+  {
+    "id": 6,
+    "question": "Hündürlükdə yerləşən işçi meydancalarına tələblər?",
+    "options": [
+      "Hündürlükdə yerləşən işçi meydançaların döşəmə səthi sürüşməni istisna edən metal təbəqədən və ya qalınlığı 40 mm-dən az olmayan taxtadan olmalı",
+      "Hündürlüyü 1,25m olan (biri-birindən 0,40 m-dən çox olmayan məsafədə yerləşən uzununa tamasalı) məhəccəri, döşəmədən 1 sm-dən çox olmayan hündürlükdə yerləşən hündürlüyü 0,15 m-dən az olmayan yan haşiyəsi (bortu) olmalıdır",
+      "İşçinin (xidmət üçün) 0,75 m-ə qədər qalxması tələb olunan obyektlər (yerlər) pillələrlə, 0,75-dən artıq hündürlükdə isə məhəccərli pilləkənlərlə təchiz edilməlidir",
+      "Bütün cavablar düzdür."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 7,
+    "question": "Quyuların təmiri zamanı işıqlandırma üçün nəzərdə tutlmuş avadanlıqlara tələblər?",
+    "options": [
+      "Aqreqat, is yerlərinin işlqlandırması üçün 24 V sabit cərəyan düzləndiricisitransformatoru ilə təchiz olunmalıdır",
+      "Aqreqat, akkumulyatorların doldurulması üçün quruluşla və qəza işıqlandırılması üçün 24 V sabit cərəyan dövrəsi ilə təchiz olunmalıdır",
+      "Aqreqat, qəza işıqlandırılması üçün 24 V sabit cərəyan dövrəsi ilə təchiz olunmalıdır",
+      "Aqreqat, is yerlərinin işlqlandırması üçün 24 V sabit cərəyan düzləndiricisitransformatoru ilə, akkumulyatorların doldurulması üçün quruluşla və qəza işıqlandırılması üçün 24 V sabit cərəyan dövrəsi ilə təchiz olunmalıdır."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 8,
+    "question": "Quyularım kanat texnikasından istifadə etməklə cari təmiri zamanı avadanlıq necə komplektləşdirilməlidir?",
+    "options": [
+      "Hidravlik bucurqadla",
+      "Kanatlı barabanın hər hansı istənilən sürət diapozonunda və kanata təsbit edilmiş yüklə fırlanmasını təmin etməyə imkan verən hidravlik bucurqadın tətbiqi ilə aparmaq lazımdır.",
+      "Kanatlı barabanın kanata təsbit edilmiş yüklə fırlanmasını təmin etməyə imkan verən hidravlik bucurqadın tətbiqi ilə aparmaq lazımdır",
+      "Kanatlı barabanın hər hansı istənilən sürət diapozonunda imkan verən hidravlik bucurqadın tətbiqi ilə aparmaq lazımdır"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Doldurma (долив) blokuna olan tələblər?",
+    "options": [
+      "Quyunun öz-özünə doldurulması və ya nasosun (quyunun yuyulması üçün aqreqat) köməyilə məcburi dolması temin edilməlidir",
+      "Boruların quyudan qaldırılması əməliyyatı dolma və quyuağzında səviyyənin saxlanması ilə aparılır",
+      "Dolma tutumu səviyyəölçənlə təchiz edilməli və dətəcələrə bölünmüş olmalıdır",
+      "Bütün cavablar doğrudur."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 10,
+    "question": "Quyu boğulmazdan əvvəl hansı ehtiyyat həcmində maye ilə təchiz olunmalıdır?",
+    "options": [
+      "İki quyu həcmindən az olmayan həcmdə müvafiq sıxlığı ehtiyat maye ilə təchiz olunmalıdır.",
+      "İki quyu həcmindən az olmayaraq",
+      "Bir quyu həcmindən az olmayaraq",
+      "Quyunun 1,5 həcmindən az olmayan həcmdə müvafiq sıxlığı ehtiyat maye ilə təchiz olunmalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 11,
+    "question": "Tunel tipli nərdivanlara olan tələbələri göstərin?",
+    "options": [
+      "Metaldan, eni 0,60 m-dən az olmamalı, radiusu 0,35-0,40 m olan qoruyucu qövslər olmalı və onlar da öz növbəsində qoruyucu zolaqlarla bərkidilməlidir. Qövslər arasındakı məsafə 0,80 m-dən çox olmamalıdır. Qövsün pillələrdən ən aralı nöqtəsi 0,070-0,80 m həddində olmalıdır. Nərdivanlar şaqul üzrə bir-birindən 6 m-dən çox olmayan məsafədə quraşdırılmış aralıq meydançalarla təmin edilməlidir. Tunel tipli söykəmə nərdivanların pillələri arasındakı məsafə 0,35 m-dən çox, eni isə 0,6 m-dən az olmamalıdır.",
+      "Metaldan, eni 0,50 m-dən az olmamalı, radiusu 0,35-0,40 m olan qoruyucu qövslər olmalı və onlar da öz növbəsində qoruyucu zolaqlarla bərkidilməlidir. Qövslər arasındakı məsafə 0,80 m-dən çox olmamalıdır. Qövsün pillələrdən ən aralı nöqtəsi 0,070-0,80 m həddində olmalıdır. Nərdivanlar şaqul üzrə bir-birindən 6 m-dən çox olmayan məsafədə quraşdırılmış aralıq meydançalarla təmin edilməlidir. Tunel tipli söykəmə nərdivanların pillələri arasındakı məsafə 0,35 m-dən çox, eni isə 0,6 m-dən az olmamalıdır",
+      "Metaldan, eni 0,60 m-dən az olmamalı, radiusu 0,35-0,40 m olan qoruyucu qövslər olmalı və onlar da öz növbəsində qoruyucu zolaqlarla bərkidilməlidir. Qövslər arasındakı məsafə 0,70 m-dən çox olmamalıdır. Qövsün pillələrdən ən aralı nöqtəsi 0,060-0,70 m həddində olmalıdır. Nərdivanlar şaqul üzrə bir-birindən 6 m-dən çox olmayan məsafədə quraşdırılmış aralıq meydançalarla təmin edilməlidir. Tunel tipli söykəmə nərdivanların pillələri arasındakı məsafə 0,25 m-dən çox, eni isə 0,6 m-dən az olmamalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 12,
+    "question": "Dalma mərkəzdənqaçma elektrik nasosları ilə təchiz olunmuş quyuları təmiri zamanı olan tələblər?",
+    "options": [
+      "Kabelin gərginliyi açılmalıdır",
+      "Kabelin diyircəyi və quyuağzı ilə eyni şaquli səthdə quraşdırılmış barabana kabelin sarınması və açılması mexanikləşdirilməlidir",
+      "Kabelin sarğıları barabanın üzərində düzgün sıralarla yığılmalıdır",
+      "Bütün cavablar doğrudur."
+    ],
+    "answer": 3
+  },
+  {
+    "id": 13,
+    "question": "İşləyənlər üçün təhlükə mənbəyi olan avadanlığın elementləri, tərtibatlar, bəndlər, habelə çəpər və mühafizə qurğuların səthlərində hansı rəngdə olmalıdır?",
+    "options": [
+      "Qırmızı rəngdə",
+      "Qara rəngdə",
+      "Müvafiq siqnal rəngində"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 14,
+    "question": "Kim istehsalatda təhlükəsiz və sağlam əmək şəraitinin yaradılması və təmini üzrə işlərə ümumi rəhbərliui həyata keçirir və buna görə şəxsi məsuliyyət daşıyır?",
+    "options": [
+      "Şirkətin rəhbəri.",
+      "Əməyin Mühafizəsi şöbəsi",
+      "Sənayedə İşlərin Təhlükəsiz Görülməsi və Dağ-Mədən Nəzarəti Dövlət Agentliyi",
+      "Düzgün cavab yoxdur"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "question": "TQA (tullanışa qarşı avadanlıq) quyu ağzında quraşdırıldıqdan sonra, quyu hansı təzyiqə sınanır?",
+    "options": [
+      "İstismar təzyiqindən artıq olmayan təzyiqə",
+      "İstismar təzyiqindən artıq olmayan, gözlənilən maksimal təzyiqə.",
+      "Gözlənilən maksimal təzyiqin 1.5 dəfəsi",
+      "Gözlənilən maksimal təzyiqə"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Boru kəmərlərinin avtomobil yolları və keçidləri kəsişdiyi yerlərdə?",
+    "options": [
+      "Təhlükə haqqında xəbəredici nişanlar qoyulmalıdır.",
+      "Maksimal yük cəkisi haqqında nişanlar qoyulmalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "Hündürlükdə yerləşən işçi meydancalarına tələblər?",
+    "options": [
+      "Hündürlükdə yerləşən işçi meydançaların döşəmə səthi sürüşməni istisna edən metal təbəqədən və ya qalınlığı 50 mm-dən az olmayan taxtadan olmalı. Hündürlüyü 1,25m olan (biri-birindən 0,40 m-dən çox olmayan məsafədə yerləşən uzununa tamasalı) məhəccəri, döşəmədən 1 sm-dən çox olmayan hündürlükdə yerləşən hündürlüyü 0,15 m-dən az olmayan yan haşiyəsi (bortu) olmalıdır. İşçinin (xidmət üçün) 0,75 m-ə qədər qalxması tələb olunan obyektlər (yerlər) pillələrlə, 0,75-dən artıq hündürlükdə isə məhəccərli pilləkənlərlə təchiz edilməlidir",
+      "Hündürlükdə yerləşən işçi meydançaların döşəmə səthi sürüşməni istisna edən metal təbəqədən və ya qalınlığı 40 mm-dən az olmayan taxtadan olmalı. Hündürlüyü 1,25m olan (biri-birindən 0,30 m-dən çox olmayan məsafədə yerləşən uzununa tamasalı) məhəccəri, döşəmədən 1 sm-dən çox olmayan hündürlükdə yerləşən hündürlüyü 0,15 m-dən az olmayan yan haşiyəsi (bortu) olmalıdır. İşçinin (xidmət üçün) 0,65 m-ə qədər qalxması tələb olunan obyektlər (yerlər) pillələrlə, 0,75-dən artıq hündürlükdə isə məhəccərli pilləkənlərlə təchiz edilməlidir",
+      "Hündürlükdə yerləşən işçi meydançaların döşəmə səthi sürüşməni istisna edən metal təbəqədən və ya qalınlığı 40 mm-dən az olmayan taxtadan olmalı. Hündürlüyü 1,25m olan (biri-birindən 0,40 m-dən çox olmayan məsafədə yerləşən uzununa tamasalı) məhəccəri, döşəmədən 1 sm-dən çox olmayan hündürlükdə yerləşən hündürlüyü 0,15 m-dən az olmayan yan haşiyəsi (bortu) olmalıdır. İşçinin (xidmət üçün) 0,75 m-ə qədər qalxması tələb olunan obyektlər (yerlər) pillələrlə, 0,75-dən artıq hündürlükdə isə məhəccərli pilləkənlərlə təchiz edilməlidir"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 18,
+    "question": "Quyuların təmiri üçün aqreqatlar necə qurulmalıdır? 4.8.7.",
+    "options": [
+      "Quyuağzı meydançada, istehsalçı zavodun istismar təlimatına uyğun. Aqreqat meydançada ele qurulmalıdır ki, ona qulluq rahat olsun.. O, sürüşmənin (yerdəyişmənin) qarşısını alan dayaqlarla təchiz olunmalıdır.",
+      "Quyu ağzına yaxın.",
+      "Aqreqat meydançada ele qurulmalıdır ki, ona qulluq rahat olsun.."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 19,
+    "question": "Partlayışyanğın təhlükəli zonalarda istifadə edilən bütün xüsusi əhəmiyyətli aqreqatlar hansı qurğularla təchiz olunmalıdır?",
+    "options": [
+      "Aqreqatlar partlayışdan mühafizəli olmaqla, qəza işıqlanması və səs siqnalları, danışıq qurğrları və işıqlanma sistemi ilə təchiz olunmalıdır",
+      "Aqreqatlar partlayışdan mühafizəli olmalıdır",
+      "Aqreqatlar qəza işıqlanması və səs siqnalları, danışıq qurğrları və işıqlanma sistemi ilə təchiz olunmalıdır"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 20,
+    "question": "Yüksək istehsalat təhlükəsi olan yerlərdə işlər hansı sənəd üzrə yerinə yetirilməlidir?",
+    "options": [
+      "Yüksək təhlükə akt",
+      "Tapşırıq-icazə",
+      "Tapşırıq-buraxılış",
+      "Doğru 1,2",
+      "Doğru 1.3"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 21,
+    "question": "Saz vəziyyətdə olan çəki indikatoru olmadan endirmə-qaldırma əməliyyatlarını, qülləyə (vışkaya) ağırlıq düşməsi ilə əlaqədar təmir işlərini aparmaq olarmı?",
+    "options": [
+      "Qadağandır",
+      "Olar",
+      "Baş mühəndisin razılığı oladuğu halda olar",
+      "Sənayedə İşlərin Təhlükəsiz Görülməsi və Dağ-Mədən Nəzarəti Dövlət Agentliyi tərəfindən razılaşma olduğu halda olar"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 22,
+    "question": "İşçilər xəsarət alanlara həkiməqədər ilk tibbi yardım etməyin üsul və qaydalarını bilməli və onları tətbiq etməyi bacarmalıdırmı?",
+    "options": [
+      "İşə götürənin qərarina əsasən",
+      "İşçilər bədbəxt hadisələr zamanı xəsarətalanlara həkiməqədər ilk tibbi yardım etməyin üsul və qaydalarını bilməli və onları tətbiq etməyi bacarmalıdır"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 23,
+    "question": "Torşəkilli çəpərlərə olan tələbləri göstərin?",
+    "options": [
+      "Avadanlıqların hərəkət edən elementlərinin torşəkilli çəpərinin hündürlüyü l,9m-dən az olmamalıdır. Hündürlüyü 1,9m-dən az olan mexanizmlər tam olaraq (üstdən də) çəpərlənməlidir. Torun gözcüklərinin ölçüləri 30x30mm-dən artıq, məftilinin diametri isə 2 mm-dən az olmamalıdır. Torşəkilli çəpərin metal çərçivəsi (karkası) olmalıdır.",
+      "Avadanlıqların hərəkət edən elementlərinin torşəkilli çəpərinin hündürlüyü l,8m-dən az olmamalıdır. Hündürlüyü 1,8m-dən az olan mexanizmlər tam olaraq (üstdən də) çəpərlənməlidir. Torun gözcüklərinin ölçüləri 30x30mm-dən artıq, məftilinin diametri isə 2 mm-dən az olmamalıdır. Torşəkilli çəpərin metal çərçivəsi (karkası) olmalıdır."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "question": "Sutkanın qaranlıq vaxtı haralar işıqlandırılmalıdır?",
+    "options": [
+      "İş yerləri",
+      "Texnoloji avadanlıqlar",
+      "Yollar, keçidlər, dəhlizlər",
+      "Pilləkənlər",
+      "Doğru 1,2,3,4"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 25,
+    "question": "Qazneftsu təzahürü mümkün olan quyularda işləməyə kim buraxılır?",
+    "options": [
+      "Xüsusi hazırlıq keçmiş mütəxəssislər",
+      "Xüsusi hazırlıq keçmiş qazmaçılar",
+      "Qazmaçılar və mütəxəssislər",
+      "Xüsusi hazırlıq keçmiş qazmaçılar və mütəxəssislər",
+      "Mütəxəssislər"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 26,
+    "question": "Yanğın partlayış təhlükəli istehsalat sahələrində (neftin hazırlanması qurğuları, rezervuar parkları və s.) taxta döşəmələrin tədbiqi?",
+    "options": [
+      "Qadağandır",
+      "Qadağan deyildir"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 27,
+    "question": "Kompleks briqadaların işçilərinə (işin xüsusiyyətinə görə bir neçə peşə üzrə iş görən) olan tələblər?",
+    "options": [
+      "Müvafıq ixtisasları (kvalifikasiyası) olmalı və həmçinin əsas və əlavə (əvəzçi) peşələr üzrə icazəsi olmalıdır.",
+      "Peçəkar ixtisası və həmçinin əsas və əlavə (əvəzçi) peşələr üzrə icazəsi olmalıdır."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 28,
+    "question": "Quyuların təmiri nəzərdə tutlmuş aqreqatın idarəetmə pultundan hansı əməliyyatlar aparılmalıdır?",
+    "options": [
+      "Bütün texnoloji proseslər və quyudakı əməliyyatlar idarəetmə pultundan yerinə yetirlməlidir.",
+      "Bütün texnoloji proseslər və quyudakı əməliyyatlar idarəetmə pultundan yerinə yetirlməlidir. Bu işlərin yerinə yetirilməsi zamanı vışkanın (qüllənin), bucurqadın və quyu ağzının idarəetmə pultundan görünməsi təmin olunmalıdır",
+      "Bu işlərin yerinə yetirilməsi zamanı vışkanın (qüllənin), bucurqadın və quyu ağzının idarəetmə pultundan görünməsi təmin olunmalıdır",
+      "Bütün texnoloji əməliyyatlar idarəetmə pultundan yerinə yetirlməlidir. Bu işlərin yerinə yetirilməsi zamanı vışkanın (qüllənin), bucurqadın və quyu ağzının idarəetmə pultundan görünməsi təmin olunmalıdır"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 29,
+    "question": "Aqreqatın vışkasında nələr olmalıdır?",
+    "options": [
+      "Hər bir vışka görünən yerdə asılan (bərkidilmiş) taxta lövhəciklə təchiz edilməlidir",
+      "Aqreqatın vışkasında elektrik mərkəzdənqaçma nasosunun (EMN, ЭЦН) kabeli üçün diyircəyin asılmasını təmin edən vasitə (quruluş) olmalıdır. Hər bir vışka görünən yerdə asılan (bərkidilmiş) metal lövhəciklə təchiz edilməlidir",
+      "Aqreqatın vışkasında elektrik mərkəzdənqaçma nasosunun (EMN, ЭЦН) kabeli üçün diyircəyin asılmasını təmin edən vasitə (quruluş) olmalıdır",
+      "."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 30,
+    "question": "Quyuların təmiri üçün aqreqatlar necə qurulmalıdır?",
+    "options": [
+      "Aqreqat meydançada elə qurulmalıdır ki, ona qulluq etmək rahat olsun",
+      "Quyuağzı meydançada, istehsalçı zavodun istismar təlimatına uyğun qurulmalıdır. Aqreqat meydançada elə qurulmalıdır ki, ona qulluq etmək rahat olsun. O, sürüşmənin (yerdəyişmənin) qarşısını almalıdır.",
+      "İstehsalçı zavodun istismar təlimatına uyğun qurulmalıdır",
+      "Quyuağzı meydançada"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 31,
+    "question": "Quyuların təmiri üçün nəzərdə tutulmuş aqreqatın bucurqadında nələr nəzərdə tutulmalıdır?",
+    "options": [
+      "Bucurqadın intiqalının transmisiyyasında, qarmaqda yükqaldırma qabiliyyətninin məhdudlaşdırıcısı nəzərdə tutulmalıdır. Talblokun qalxmasını məhdudlaşdıran quruluşla təchiz olunmalıdır",
+      "Bucurqadın intiqalının transmisiyyasında, qarmaqda yükqaldırma qabiliyyətninin məhdudlaşdırıcısı nəzərdə tutulmalıdır.",
+      "Bucurqadın barabanının hərəkətini dayandıran (bloklayan) mexanizmi olan, talblokun qalxmasını avtomatik məhdudlaşdıran quruluşla (talblokun altına dartıb aparmasını qarşısının qarşısını alan mexanizmlə) təchiz olunmalıdır",
+      "Doğrudur 2,3"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 32,
+    "question": "Mərkəzdənqaçma nasoslarının və kompressorların vurucu boru kəmərlərində nələr nəzərdə tutulmalıdır?",
+    "options": [
+      "Əks klapan və ya nəql edilən maddələ-rin əks (geriyə) istiqamətdə ycrdəyişməsinin qarşısmı alan digər qurğu",
+      "Lazım gələrsə qoruyucu klapan da nəzərdə tutulmalıdır.",
+      "Nizamlanan ştuser",
+      "Doğrudur 1,2",
+      "Doğrudur 1,2,3"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 33,
+    "question": "Qazma qurğularında, əsaslı və cari təmirdə, traktor-qaldırıcıda və digər yerlərdə calanmış kanatlardan istifadə edilməsi icazə verilirmi?",
+    "options": [
+      "İcazə verilir",
+      "Qadağandır."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "question": "Tal kanatlarının, həmçinin vışkaların, dorların qaldırılması üçün istifadə edilən kanatların, dartıcıların, qoruyucu kanatların hansı vasitəsi ilə kəsilməlidir?",
+    "options": [
+      "Kanatların kəsilməsini mühafızə eynəkləri (maska) tətbiq etməklə elektrik qaynağı vasitəsi ilə kəsilməlidir.",
+      "Elektrik qaynağı vasitəsi ilə kəsilməsinə icazə verilir. Kanatların kəsilməsini mühafızə eynəkləri (maska) tətbiq etməklə xüsusi tərtibatdan (kanatkəsən) istifadə edərək yerinə yetirmək lazımdır.",
+      "Elektrik qaynağı vasitəsi ilə kəsilməsi qadağandır. Kanatların kəsilməsini xüsusi tərtibatdan (kanatkəsən) istifadə edərək yerinə yetirmək lazımdır.",
+      "Elektrik qaynağı vasitəsi ilə",
+      "Elektrik qaynağı vasitəsi ilə kəsilməsi qadağandır. Kanatların kəsilməsini mühafızə eynəkləri (maska) tətbiq etməklə xüsusi tərtibatdan (kanatkəsən) istifadə edərək yerinə yetirmək lazımdır."
+    ],
+    "answer": 4
+  },
+  {
+    "id": 35,
+    "question": "Hansı şərtlərdə endirmə-qaldırma əməliyyatlarını aparmaq qadağandır?",
+    "options": [
+      "Küləyin sürəti 15 m/san. Və daha artıq, leysanda, güclü gar yağmada vı dumanda",
+      "Küləyin sürəti 15 m/san. Və daha artıq, leysanda, güclü gar yağmada və dumanda (50 m-dən az görünmədə)",
+      "Küləyin sürəti 15 m/san. Və daha artıq, leysanda, güclü gar yağmada və dumanda (30 m-dən az görünmədə)",
+      "Küləyin sürəti 15 m/san. Və daha artıq, leysanda, güclü gar yağmada və dumanda (60 m-dən az görünmədə), - 40 С-dən az olduqda",
+      "Küləyin sürəti 10 m/san. Və daha artıq, leysanda, güclü gar yağmada və dumanda (50 m-dən az görünmədə)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "question": "Neftqazsu təzahürü aşkarlandıqda briqada hansı tədbirlər görməlidir?",
+    "options": [
+      "Quyu ağzı kipləşdirilməli",
+      "Briqada isə qəzaların ləğv edilmə planına uyğun hərəkət etməlidir",
+      "Quyu ağzı kipləşdirilməli, briqada isə bütün daxiliyanma mühərikləri söndürüb MMTX-a (ЦИТС ) xəbər verməlidir",
+      "Quyu ağzı kipləşdirilməli, briqada isə qəzaların ləğv edilmə planına uyğun hərəkət etməlidir"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 37,
+    "question": "Hansı hallarda qurğular, avadanlıqlar, mexanizmlərin istismarı qadağandır?",
+    "options": [
+      "Nasaz olduqda",
+      "Alətlər nasaz vəziyyətdə və ya təhlükəsizlik quruluşları (bloklayıcı, təsbitləyici, siqnalverici tərtibat və cihazlar) nasaz olduqda",
+      "İşçi parametrləri pasportdakından fərqli olduqda",
+      "Doğru 1,2",
+      "Bütün cavablar doğrudur"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 38,
+    "question": "İşçinin (xidmət üçün) 0,75 m-ə qədər və 0,75-dən artıq hündürlüyə qalxması tələb olunan obyektlərdə (yerlər) hansı qurğularla təmin olunmalıdır?",
+    "options": [
+      "Pillələr, məhəccərli pilləkənlər",
+      "Məhəccərlər"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 39,
+    "question": "Təzyiq altında işləyən qablarda, buxar qazanlarında hansı məlumatlar göstərilməlidir?",
+    "options": [
+      "İcazə verilən təzyiq",
+      "Növbəti texniki yoxlamanın tarixi",
+      "Qeydiyyat nömrəsi",
+      "Doğru 1,2",
+      "Doğru 1,2,3"
+    ],
+    "answer": 4
+  },
+  {
+    "id": 40,
+    "question": "Avadanlığın gərginlik altına düşə bilmə ehtimalı olan metal hissələrində hansı rəmz təsvir olmalıdır?",
+    "options": [
+      "Avadanlığın gərginlik altına düşə bilmə ehtimalı olan metal hissələrində mühafızə yerləbirləşdirilməsi ilə birləşdirilmək üçün görünən konstruktiv element nəzərdə tutulmalıdır.",
+      "Elementin yanında «Torpaqlanmışdır»in rəmzi işarəsi təsvir edilməlidir.",
+      "Doğrudur 1,2"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 41,
+    "question": "[Əvəzedici sual — mənbədə 41-ci sualın mətni yoxdur] TQA (tullanışa qarşı avadanlıq) quyu ağzında quraşdırıldıqdan sonra, quyu hansı təzyiqə sınanır?",
+    "options": [
+      "İstismar təzyiqindən artıq olmayan təzyiqə",
+      "İstismar təzyiqindən artıq olmayan, gözlənilən maksimal təzyiqə.",
+      "Gözlənilən maksimal təzyiqin 1.5 dəfəsi",
+      "Gözlənilən maksimal təzyiqə"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 42,
+    "question": "Əlavə edilən qazma məhlulunun həcmi ilə qaldırılan boruların həcmi arasındakı hansı fərq artıq olduqda qaldırma prosesi dayandırılmalıdır və qazneftsu təzahürlərində qazma növbəsinin təlimatla nəzərdə tutlmuş tədbirlər həyata keçirilməlidir?",
+    "options": [
+      "0,5 м3 -dən artıq",
+      "0,2 м3 -dən artıq",
+      "0,1 м3 -dən artıq",
+      "1,0 м3 -dən artıq",
+      "1,5 м3 -dən artıq"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 43,
+    "question": "Hansı sürətdə dalma avadanlığı quyuya endirilməlidir (qaldırmalı)?",
+    "options": [
+      "0,10 м/san-dən artıq olmamalı",
+      "0,25 м/ san-dən artıq olmamalı",
+      "0,15 м/ san-dən artıq olmamalı",
+      "0,30 м/ san-dən artıq olmamalı",
+      "0,50 м/ san-dən artıq olmamalı."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 44,
+    "question": "TQA (tullanışa qarşı avadanlıq) quyu ağzında quraşdırıldıqdan sonra, quyu hansı təzyiqə sınanır?",
+    "options": [
+      "İstismar təzyiqindən artıq olmayan təzyiqə",
+      "İstismar təzyiqindən artıq olmayan, gözlənilən maksimal təzyiqə",
+      "Gözlənilən maksimal təzyiqin 1.5 dəfəsi",
+      "Gözlənilən maksimal təzyiqə"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 45,
+    "question": "Quyuda işləri aparmağa başlamazdan əvvəl briqada nə ilə tanış olmalıdır?",
+    "options": [
+      "Qəzaları ləğvetmə planı ilə və quyuların konstruksiyası və vəziyyəti",
+      "Lay təzyiqi, quyudaxili avadanlıq, aparılacaq əməliyyatların siyahısı",
+      "Əməliyyatlar aparılarkən gözlənilən texnoloji parametrlər haqqında məlumatlardan ibarət iş planı",
+      "Doğrudur 1,2,3"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 46,
+    "question": "Hansı quyular boğulmaya məruz qalmalıdır?",
+    "options": [
+      "Bütün quyular",
+      "Lay təzyiqi hidrostatik təzyiqdən yüksək olan bütün quyular",
+      "Lay təzyiqi (aparılmış hesabatlara görə) hidrostatik təzyiqdən aşağı olan fontan və ya qazneftsu təzahürü şəraiti saxlanılan quyular",
+      "Lay təzyiqi hidrostatik təzyiqdən yüksək olan bütün quyular və (aparılmış hesabatlara görə) lay təzyiqi hidrostatik təzyiqdən aşağı olan fontan və ya qazneftsu təzahürü şəraiti saxlanıılan quyular"
+    ],
+    "answer": 3
+  },
+  {
+    "id": 47,
+    "question": "Seksialı lubrikatorun və plaşkalı preventorların yoxlanmasının dövrliyi?",
+    "options": [
+      "Hidravlik üsulla kipliyə yoxlanma – 6 aydan bir. Defektoskopiya – ildə bir dəfə",
+      "Hidravlik üsulla kipliyə yoxlanma – 3 aydan bir. Defektoskopiya – ildə bir dəfə",
+      "Hidravlik üsulla kipliyə yoxlanma – 6 aydan bir. Defektoskopiya – 6 ayda bir dəfə",
+      "Hidravlik üsulla kipliyə yoxlanma – 1 aydan bir. Defektoskopiya – ildə bir dəfə"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 48,
+    "question": "Qazma şlanqı polad kanat ilə sarınmalıdırmı?",
+    "options": [
+      "Qazma şlanqı bütün uzunluğu boyu diametri 12.5 mm-dən az olmayan, hər 1,0-1,5 m-dən bir ilgək vurulmaqla. yumşaq polad kanat ilə sarınmalıdır. Kanatın ucları vışkanın hissələrinə və fırlanğıcın gövdəsinə bərkidilməlidir.",
+      "Qazma şlanqı bütün uzunluğu boyu diametri 10 mm-dən az olmayan, hər 1,0-2 m-dən bir ilgək vurulmaqla. yumşaq polad kanat ilə sarınmalıdır. Kanatın ucları vışkanın hissələrinə və fırlanğıcın gövdəsinə bərkidilməlidir.",
+      "Zəruri deyil"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 49,
+    "question": "Hansı hallarda tal kanatdan istifadə etmək qadağandır?",
+    "options": [
+      "Hörüklərindən biri qırılmışdırsa, əzilmişdirsə, kanatın bir və ya bir neçə hörüyündə tellər əzilmişdirsə; diametri 20mm-ə qədər olan kanatın bir addımında qırılmış tellərin sayı bütün tellərin sayının 10%-dən çox olarsa, diametri 20mm-dən çox olan kanatda isə qırılmış tellərin sayı bütün tellərin sayınm 15%-dən çoxdursa; kanatda burulma («juçok») vardırsa; kanatın xarici tellərinin diametri yeyilmə, korroziya nəticəsində 20% və daha çox azalmışdırsa",
+      "Hörüklərindən biri qırılmışdırsa, əzilmişdirsə, kanatın bir və ya bir neçə hörüyündə tellər əzilmişdirsə; diametri 20mm-ə qədər olan kanatın bir addımında qırılmış tellərin sayı bütün tellərin sayının 5%-dən çox olarsa, diametri 20mm-dən çox olan kanatda isə qırılmış tellərin sayı bütün tellərin sayınm 10%-dən çoxdursa; kanatda burulma («juçok») vardırsa; səthi yeyilmə, korroziya nəticəsində kanatın diametri 7% və daha çox azalmışdırsa; kanatın xarici tellərinin diametri yeyilmə, korroziya nəticəsində 40% və daha çox azalmışdırsa"
+    ],
+    "answer": 1
+  },
+  {
+    "id": 50,
+    "question": "Quyuağzı avadanlığın sökülməsindən əvvəl hansı tədbirlər görülməlidir?",
+    "options": [
+      "Boru və boruarxası fəzalardakı təzyiq atmosfer təzyiqinə qədər aşağı salınmalıdır.",
+      "İş planında əvvəlcədən boğulması nəzərdə tutulmayan, quyudibi ayırıcı-klapanla təchiz edilmiş quyuları saxlamalı, təzyiqi atmosfer təzyiqinə qədər endirməli və 3 saatdan az olmayaraq, bu vəziyyətdə saxlamaq lazımdır.",
+      "Quyudan qazçıxmanın kəsilməsi müəyyənləşdirildikdən və quyuda mayenin səviyyəsinin sabitliyi yoxlanıldıqdan sonra quyuağzı armatur sökülməlidir.",
+      "Bütün cavablar doğrudur"
+    ],
+    "answer": 3
+  }
+]
